@@ -1,4 +1,20 @@
-header {
-    background-color:darkorange
-    color: white;
+body {
+    backgroungd-color:#015d77;
+    color: rgb(29, 29, 78);
 }
+    
+    .cabecalho {
+        background-color: #001cb8;
+        color: rgb(133, 100, 224);
+        display:flex;
+        justify-content: space-around;
+
+        }
+        
+
+
+
+
+
+
+
